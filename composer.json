@@ -1,5 +1,5 @@
 {
-    "name": "cybersource/rest-client-php",
+    "name": "americaneagle-com/cybersource-rest-client-php",
     "version": "0.0.37",
     "description": "Client SDK for CyberSource REST APIs",
     "keywords": [
@@ -18,8 +18,8 @@
         "ext-curl": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "cache/apcu-adapter": "1.1.0",
-        "firebase/php-jwt": "^5.0.0",
+        "americaneagle-com/cache-apcu-adapter": "dev-master",
+        "firebase/php-jwt": "^6.0",
 		"monolog/monolog": ">=1.25.0"
     },
     "require-dev": {
